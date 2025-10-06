@@ -1,4 +1,4 @@
-import myrandom  # This will import your compiled module
+import ran  # This will import your compiled module
 
 # Call your function
-myrandom.Main.Menu()
+ran.Main.Menu()
