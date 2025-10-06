@@ -1,0 +1,2 @@
+import oldf
+oldf.main()
