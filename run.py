@@ -1,2 +1,2 @@
-import run  # or run.so
-run.__MENU__()
+import run
+run.pyxusss()
