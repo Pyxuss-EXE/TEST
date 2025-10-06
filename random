@@ -1,4 +1,0 @@
-import random  # This will import your compiled module
-
-# Call your function
-random.Main.Menu()
